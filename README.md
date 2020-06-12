@@ -2,7 +2,9 @@
 
 > Aprendendo desenvolvimento web, criando um site do básico ao avançado utilizando as tecnologias **HTML5**, **CSS3** e **JavaScript**. 🧡
 
-![treinamento-hcode-html5](https://user-images.githubusercontent.com/5865711/84546176-147e7780-acd7-11ea-91ae-e9bff3aeafbd.png)
+<h1 align="center">
+<img src="https://ik.imagekit.io/alexandroabade/treinamento-hcode-html5_zhxOcZ8nx.png">
+</h1>
 
 ## 👨‍🎓 Treinamento completo com mais de 12h 🕛 de conteúdo abordando os seguintes tópicos:
 
